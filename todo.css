@@ -83,6 +83,7 @@ body {
   display: flex;
   width: 100%;
   justify-content: space-between;
+  margin: 2rem 2rem 0 2rem;
   color: azure;
   background-color: rgb(99, 42, 165);
   border-radius: 10px;
